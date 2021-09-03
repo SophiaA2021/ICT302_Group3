@@ -1,6 +1,6 @@
 baseURL = "https://compassionate-hawking-aa932c.netlify.app/"
 languageCode = "en-us"
-title = "ICT302 Group 3"
+title = "Student Activities Blog"
 theme = "ananke"
 
 [build]
