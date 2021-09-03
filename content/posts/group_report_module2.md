@@ -4,7 +4,8 @@ date: 2020-09-03T00:00:00-04:00
 draft: false
 ---
 
-Describes what you've accomplished: What we have been assigned to do in class. 
+Describes what you've accomplished: What we have been assigned to do in class.
+
 
 
 
