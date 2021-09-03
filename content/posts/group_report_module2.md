@@ -1,4 +1,8 @@
-
+---
+title: "Sophia's Post Week 2"
+date: 2020-09-01T00:00:00-04:00
+draft: false
+---
 
 Describes what you've accomplished: What we have been assigned to do in class.
 What is going well: We have two different ways to communicate with each other outside class. Using teams and GroupMe.
