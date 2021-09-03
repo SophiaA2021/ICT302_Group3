@@ -16,7 +16,9 @@ What is going well: We have two different ways to communicate with each other ou
 
 
 
+
 What is going less well: There is not a lot of time in class to work.
+
 
 
 
