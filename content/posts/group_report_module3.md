@@ -101,6 +101,12 @@ Next steps that you’re going to take: meeting more frequently preferably over 
 
 
 Ikenna:
+
+
+
+
+
+
 What we’ve accomplished: we have an idea of what we want to do and we have all come to an agreement on what we have to
 
 
