@@ -105,25 +105,25 @@ Ikenna:
 
 
 
-What we’ve accomplished: 
+What we’ve accomplished: We'e assigned roles to everyone based on our skills.
 
 
 
 
 
-What is going well: 
+What is going well: Everyon knows what is expected from them and is comfortable with what they're doing.
 
 
 
 
 
-What is going not so well: 
+What is going not so well: We still haven't been able to meet up and work together on the project and I feel there's a huge communication barrier probable because of different schedules and work loads.
 
 
 
 
 
-Next steps:
+Next steps: Doing what we're meant to be doing and making sure we don't hold each other back.
 
 
 
