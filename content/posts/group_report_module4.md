@@ -135,25 +135,25 @@ Bryce:
 
 
 
-What we’ve accomplished: 
+What we’ve accomplished: We have all been assigned our roles, what comes with them, our expectations for each other and the first steps of our site.
 
 
 
 
 
-What is going well: 
+What is going well: Everyone is really willing to do whatever the team needs whether it be stepping into a specific role that someone else can't do, and communicating when we will be able to get things done
 
 
 
 
 
-What is going not so well: 
+What is going not so well: We are doing a lot of things well, I think the next steps would be getting a schedule together for deadlines
 
 
 
 
 
-Next steps:
+Next steps: Create deadlines for the site and continue to build chemistry working as one
 
 
 
