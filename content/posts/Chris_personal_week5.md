@@ -1,5 +1,5 @@
 ---
-title: "Chris Personal Week 5"
+title: "Chris Personal Week"
 date: 2021-09-26T00:00:00-04:00
 draft: false
 ---
