@@ -1,6 +1,6 @@
 ---
 title: "Group Post Week 8"
-date: 2020-09-24T00:00:00-04:00
+date: 2020-10-16T00:00:00-04:00
 draft: false
 ---
 Questions we are answering.
