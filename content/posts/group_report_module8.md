@@ -135,25 +135,25 @@ Bryce:
 
 
 
-What we’ve accomplished: 
+What we’ve accomplished: We have began using WordPress sucessfully which has been good, and we also have the layout and design of our pages
 
 
 
 
 
-What is going well: 
+What is going well: When we are all in class together we have excellent communication
 
 
 
 
 
-What is going not so well: 
+What is going not so well: Making sure everyone is always in class most of the time
 
 
 
 
 
-Next steps: 
+Next steps: Last week we made a lot of progress, keep that momentum going
 
 
 
