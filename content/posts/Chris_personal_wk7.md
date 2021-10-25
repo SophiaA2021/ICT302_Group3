@@ -1,3 +1,4 @@
+---
 title: "Chris Personal Week 7"
 date: 2021-010-10T00:00:00-04:00
 draft: false
