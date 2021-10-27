@@ -63,19 +63,19 @@ Grading scale:
 
 
 
-A - Everyone does what their supposed to do on time. (Monday we set the goal for the week, Sunday of that same week is the deadline.) People show up to class and contribute ideas to the team.
+A - Everyone fufills their roles and does what their supposed to do on time. (Monday we set the goal for the week, Sunday of that same week is the deadline.) People show up to class and contribute ideas to the team.
 
 
 
 
 
-B - The person finished their task but not on time as well as didn't contribute to group conversation.
+B - The person finished their role but not on time as well as didn't contribute to group conversation.
 
 
 
 
 
-C - Attempted their task but didn't put in a lot of effort and didn't show up to class.
+C - Attempted their role but didn't put in a lot of effort and didn't show up to class.
 
 
 
