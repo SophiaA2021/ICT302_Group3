@@ -3,7 +3,7 @@ title: "Personal Contract Week 10"
 date: 2020-10-29T00:00:00-04:00
 draft: false
 ---
-Bryce: Editor
+Ikenna: Editor
 
 
 
@@ -17,7 +17,7 @@ Role: "A CMS user responsible for performing editorial process to create, edit, 
 
 
 
-Ikenna: Site Planner
+Bryce: Site Planner
 
 
 
@@ -30,7 +30,7 @@ Role: "Site planners are responsible for designing the website the CMS will mana
 
 
 
-Sophia: Developer
+Chris: Developer
 
 
 
@@ -42,7 +42,7 @@ Role: "The role responsible for installing, configuring, extending, and templati
 
 
 
-Chris: Administrator
+Sophia: Administrator
 
 
 
