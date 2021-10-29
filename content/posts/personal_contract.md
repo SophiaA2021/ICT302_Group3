@@ -1,5 +1,5 @@
 ---
-title: "Initial Personal Contract Week 10"
+title: "Personal Contract Week 10"
 date: 2020-10-29T00:00:00-04:00
 draft: false
 ---
