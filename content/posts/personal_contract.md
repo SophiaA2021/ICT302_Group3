@@ -1,6 +1,6 @@
 ---
-title: "Initial Personal Contract Week 4"
-date: 2020-09-15T00:00:00-04:00
+title: "Initial Personal Contract Week 10"
+date: 2020-10-29T00:00:00-04:00
 draft: false
 ---
 Bryce: Editor
